@@ -1,0 +1,2 @@
+# NodeStatic
+LearningNode
